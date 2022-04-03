@@ -27,8 +27,6 @@ def criar_botao(radio_button: str, dado: object) -> None:
             with col1:
                 criar_metrica('1', dado.numero1)
 
-            with col2:
-                criar_metrica('2', dado.numero2)
         else:
             dado.numero1 = True
             dado.numero2 = True
