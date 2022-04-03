@@ -16,7 +16,7 @@
 <pre><code>python main.py</code></pre>
 
 
-<p>Mais sobre este script</p>
+<h2>Mais sobre este script</h2>
 <ul>
   <li>Este script utiliza da biblioteca "Streamlit" provisóriamente.</li>
   <li>Este script ainda sofrerá um deploy para facilitamento de seu uso.
