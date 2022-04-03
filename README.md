@@ -14,3 +14,10 @@
 <p>Executar os seguintes comandos no terminal:</p>
 <pre><code>pip install -r requirements.txt</code></pre>
 <pre><code>python main.py</code></pre>
+
+
+<p>Mais sobre este script</p>
+<ul>
+  <li>Este script utiliza da biblioteca "Streamlit" provisóriamente.</li>
+  <li>Este script ainda sofrerá um deploy para facilitamento de seu uso.
+</ul>
