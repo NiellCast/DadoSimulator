@@ -18,6 +18,6 @@
 
 <h2>Mais sobre este script</h2>
 <ul>
-  <li>Este script utiliza da biblioteca "Streamlit" provisóriamente.</li>
+  <li>Este script utiliza do framework "Streamlit" provisóriamente.</li>
   <li>Este script ainda sofrerá um deploy para facilitamento de seu uso.
 </ul>
